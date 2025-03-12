@@ -1,0 +1,14 @@
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\bin\Debug\net8.0\AverageNumber.exe
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\bin\Debug\net8.0\AverageNumber.deps.json
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\bin\Debug\net8.0\AverageNumber.runtimeconfig.json
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\bin\Debug\net8.0\AverageNumber.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\bin\Debug\net8.0\AverageNumber.pdb
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfo.cs
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\obj\Debug\net8.0\refint\AverageNumber.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.pdb
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.genruntimeconfig.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\AverageNumber\obj\Debug\net8.0\ref\AverageNumber.dll

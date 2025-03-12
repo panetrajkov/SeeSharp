@@ -1,0 +1,14 @@
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\bin\Debug\net8.0\RealCalculator.exe
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\bin\Debug\net8.0\RealCalculator.deps.json
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\bin\Debug\net8.0\RealCalculator.runtimeconfig.json
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\bin\Debug\net8.0\RealCalculator.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\bin\Debug\net8.0\RealCalculator.pdb
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\obj\Debug\net8.0\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\obj\Debug\net8.0\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\obj\Debug\net8.0\RealCalculator.AssemblyInfo.cs
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\obj\Debug\net8.0\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\obj\Debug\net8.0\RealCalculator.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\obj\Debug\net8.0\refint\RealCalculator.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\obj\Debug\net8.0\RealCalculator.pdb
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\obj\Debug\net8.0\RealCalculator.genruntimeconfig.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class02\SeeSharp.Homework.Class02\SeeSharp.Homework.Class02\obj\Debug\net8.0\ref\RealCalculator.dll

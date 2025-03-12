@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trajk\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\MEGA\\\u041F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-C#(Basic)\\SeeSharp.Class02\\SeeSharp.Homework.Class02\\SeeSharp.Homework.Class02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C3F856-08D9-4B12-9392-018A9E614FC0}|..\\SwapNumbers\\SwapNumbers.csproj|c:\\users\\trajk\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\mega\\\u043F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-c#(basic)\\seesharp.class02\\seesharp.homework.class02\\swapnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7434D1-B5F1-4C1B-8380-9D7812301015}|RealCalculator.csproj|c:\\users\\trajk\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\mega\\\u043F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-c#(basic)\\seesharp.class02\\seesharp.homework.class02\\seesharp.homework.class02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7434D1-B5F1-4C1B-8380-9D7812301015}|RealCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A2C304-EABC-41CA-94F4-E40192CD7563}|..\\AverageNumber\\AverageNumber.csproj|c:\\users\\trajk\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\mega\\\u043F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-c#(basic)\\seesharp.class02\\seesharp.homework.class02\\averagenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trajk\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\MEGA\\\u041F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-C#(Basic)\\SeeSharp.Class02\\SeeSharp.Homework.Class02\\SwapNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SwapNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\trajk\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\MEGA\\\u041F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-C#(Basic)\\SeeSharp.Class02\\SeeSharp.Homework.Class02\\SwapNumbers\\Program.cs",
+              "RelativeToolTip": "..\\SwapNumbers\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T22:38:34.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trajk\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\MEGA\\\u041F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-C#(Basic)\\SeeSharp.Class02\\SeeSharp.Homework.Class02\\AverageNumber\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AverageNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\trajk\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\MEGA\\\u041F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-C#(Basic)\\SeeSharp.Class02\\SeeSharp.Homework.Class02\\AverageNumber\\Program.cs",
+              "RelativeToolTip": "..\\AverageNumber\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T22:08:21.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trajk\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\MEGA\\\u041F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-C#(Basic)\\SeeSharp.Class02\\SeeSharp.Homework.Class02\\SeeSharp.Homework.Class02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\trajk\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\MEGA\\\u041F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-C#(Basic)\\SeeSharp.Class02\\SeeSharp.Homework.Class02\\SeeSharp.Homework.Class02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:12:18.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
