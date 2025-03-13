@@ -1,0 +1,14 @@
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\bin\Debug\net8.0\SumOfEven.exe
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\bin\Debug\net8.0\SumOfEven.deps.json
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\bin\Debug\net8.0\SumOfEven.runtimeconfig.json
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\bin\Debug\net8.0\SumOfEven.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\bin\Debug\net8.0\SumOfEven.pdb
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\obj\Debug\net8.0\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\obj\Debug\net8.0\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\obj\Debug\net8.0\SumOfEven.AssemblyInfo.cs
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\obj\Debug\net8.0\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\obj\Debug\net8.0\SumOfEven.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\obj\Debug\net8.0\refint\SumOfEven.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\obj\Debug\net8.0\SumOfEven.pdb
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\obj\Debug\net8.0\SumOfEven.genruntimeconfig.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\SeeSharp.Homework.Class02\obj\Debug\net8.0\ref\SumOfEven.dll

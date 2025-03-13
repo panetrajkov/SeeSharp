@@ -1,0 +1,14 @@
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\bin\Debug\net8.0\StudentGroup.exe
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\bin\Debug\net8.0\StudentGroup.deps.json
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\bin\Debug\net8.0\StudentGroup.runtimeconfig.json
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\bin\Debug\net8.0\StudentGroup.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\bin\Debug\net8.0\StudentGroup.pdb
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\obj\Debug\net8.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfo.cs
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\obj\Debug\net8.0\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\obj\Debug\net8.0\StudentGroup.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\obj\Debug\net8.0\refint\StudentGroup.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\obj\Debug\net8.0\StudentGroup.pdb
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\obj\Debug\net8.0\StudentGroup.genruntimeconfig.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class03\SeeSharp.Homework.Class03\StudentGroup\obj\Debug\net8.0\ref\StudentGroup.dll
