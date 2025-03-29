@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trajk\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\MEGA\\\u041F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-C#(Basic)\\SeeSharp.Class04\\SeeSharp.Class04.Homework\\SeeSharp.Class07.Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DACE08B-9F62-4052-8C03-D7C608D16B8D}|SeeSharp.Class07.Homework\\SeeSharp.Class07.Homework.csproj|c:\\users\\trajk\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\mega\\\u043F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-c#(basic)\\seesharp.class04\\seesharp.class04.homework\\seesharp.class07.homework\\seesharp.class07.homework\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DACE08B-9F62-4052-8C03-D7C608D16B8D}|SeeSharp.Class07.Homework\\SeeSharp.Class07.Homework.csproj|solutionrelative:seesharp.class07.homework\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\Users\\trajk\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\MEGA\\\u041F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-C#(Basic)\\SeeSharp.Class04\\SeeSharp.Class04.Homework\\SeeSharp.Class07.Homework\\SeeSharp.Class07.Homework\\Task1.cs",
+              "RelativeDocumentMoniker": "SeeSharp.Class07.Homework\\Task1.cs",
+              "ToolTip": "C:\\Users\\trajk\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\MEGA\\\u041F\u0440\u0435\u0434\u0430\u0432\u0430\u045A\u0430\\06-C#(Basic)\\SeeSharp.Class04\\SeeSharp.Class04.Homework\\SeeSharp.Class07.Homework\\SeeSharp.Class07.Homework\\Task1.cs*",
+              "RelativeToolTip": "SeeSharp.Class07.Homework\\Task1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:50:19.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

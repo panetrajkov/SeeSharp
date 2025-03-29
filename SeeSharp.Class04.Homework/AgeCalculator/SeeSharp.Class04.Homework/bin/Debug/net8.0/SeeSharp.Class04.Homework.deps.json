@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SeeSharp.Class04.Homework/1.0.0": {
+        "runtime": {
+          "SeeSharp.Class04.Homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SeeSharp.Class04.Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\bin\Debug\net8.0\ExerciseFromClass.exe
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\bin\Debug\net8.0\ExerciseFromClass.deps.json
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\bin\Debug\net8.0\ExerciseFromClass.runtimeconfig.json
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\bin\Debug\net8.0\ExerciseFromClass.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\bin\Debug\net8.0\ExerciseFromClass.pdb
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\obj\Debug\net8.0\ExerciseFromClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\obj\Debug\net8.0\ExerciseFromClass.AssemblyInfoInputs.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\obj\Debug\net8.0\ExerciseFromClass.AssemblyInfo.cs
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\obj\Debug\net8.0\ExerciseFromClass.csproj.CoreCompileInputs.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\obj\Debug\net8.0\ExerciseFromClass.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\obj\Debug\net8.0\refint\ExerciseFromClass.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\obj\Debug\net8.0\ExerciseFromClass.pdb
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\obj\Debug\net8.0\ExerciseFromClass.genruntimeconfig.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\ExerciseFromClass\ExerciseFromClass\obj\Debug\net8.0\ref\ExerciseFromClass.dll
