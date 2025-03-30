@@ -1,0 +1,14 @@
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\bin\Debug\net8.0\SeeSharp.Class04.Homework.exe
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\bin\Debug\net8.0\SeeSharp.Class04.Homework.deps.json
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\bin\Debug\net8.0\SeeSharp.Class04.Homework.runtimeconfig.json
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\bin\Debug\net8.0\SeeSharp.Class04.Homework.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\bin\Debug\net8.0\SeeSharp.Class04.Homework.pdb
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\obj\Debug\net8.0\SeeSharp.Class04.Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\obj\Debug\net8.0\SeeSharp.Class04.Homework.AssemblyInfoInputs.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\obj\Debug\net8.0\SeeSharp.Class04.Homework.AssemblyInfo.cs
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\obj\Debug\net8.0\SeeSharp.Class04.Homework.csproj.CoreCompileInputs.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\obj\Debug\net8.0\SeeSharp.Class04.Homework.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\obj\Debug\net8.0\refint\SeeSharp.Class04.Homework.dll
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\obj\Debug\net8.0\SeeSharp.Class04.Homework.pdb
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\obj\Debug\net8.0\SeeSharp.Class04.Homework.genruntimeconfig.cache
+C:\Users\trajk\OneDrive\Документи\MEGA\Предавања\06-C#(Basic)\SeeSharp.Class04\SeeSharp.Class04.Homework\AgeCalculator\SeeSharp.Class04.Homework\obj\Debug\net8.0\ref\SeeSharp.Class04.Homework.dll
