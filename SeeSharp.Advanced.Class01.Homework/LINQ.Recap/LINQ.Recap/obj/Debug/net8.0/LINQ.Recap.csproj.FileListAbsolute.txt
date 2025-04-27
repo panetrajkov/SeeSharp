@@ -1,0 +1,14 @@
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\bin\Debug\net8.0\LINQ.Recap.exe
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\bin\Debug\net8.0\LINQ.Recap.deps.json
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\bin\Debug\net8.0\LINQ.Recap.runtimeconfig.json
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\bin\Debug\net8.0\LINQ.Recap.dll
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\bin\Debug\net8.0\LINQ.Recap.pdb
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\obj\Debug\net8.0\LINQ.Recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\obj\Debug\net8.0\LINQ.Recap.AssemblyInfoInputs.cache
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\obj\Debug\net8.0\LINQ.Recap.AssemblyInfo.cs
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\obj\Debug\net8.0\LINQ.Recap.csproj.CoreCompileInputs.cache
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\obj\Debug\net8.0\LINQ.Recap.dll
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\obj\Debug\net8.0\refint\LINQ.Recap.dll
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\obj\Debug\net8.0\LINQ.Recap.pdb
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\obj\Debug\net8.0\LINQ.Recap.genruntimeconfig.cache
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Advanced\LINQ.Recap\LINQ.Recap\obj\Debug\net8.0\ref\LINQ.Recap.dll
