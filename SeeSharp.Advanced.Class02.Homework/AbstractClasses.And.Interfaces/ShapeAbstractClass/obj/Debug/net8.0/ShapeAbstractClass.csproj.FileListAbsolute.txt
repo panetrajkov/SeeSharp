@@ -1,0 +1,14 @@
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\bin\Debug\net8.0\ShapeAbstractClass.exe
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\bin\Debug\net8.0\ShapeAbstractClass.deps.json
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\bin\Debug\net8.0\ShapeAbstractClass.runtimeconfig.json
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\bin\Debug\net8.0\ShapeAbstractClass.dll
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\bin\Debug\net8.0\ShapeAbstractClass.pdb
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\obj\Debug\net8.0\ShapeAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\obj\Debug\net8.0\ShapeAbstractClass.AssemblyInfoInputs.cache
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\obj\Debug\net8.0\ShapeAbstractClass.AssemblyInfo.cs
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\obj\Debug\net8.0\ShapeAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\obj\Debug\net8.0\ShapeAbstractClass.dll
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\obj\Debug\net8.0\refint\ShapeAbstractClass.dll
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\obj\Debug\net8.0\ShapeAbstractClass.pdb
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\obj\Debug\net8.0\ShapeAbstractClass.genruntimeconfig.cache
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class02.Homework\AbstractClasses.And.Interfaces\ShapeAbstractClass\obj\Debug\net8.0\ref\ShapeAbstractClass.dll
