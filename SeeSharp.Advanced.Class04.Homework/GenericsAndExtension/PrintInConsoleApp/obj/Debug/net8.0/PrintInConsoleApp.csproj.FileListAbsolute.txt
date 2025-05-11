@@ -1,0 +1,14 @@
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\obj\Debug\net8.0\PrintInConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\obj\Debug\net8.0\PrintInConsoleApp.AssemblyInfoInputs.cache
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\obj\Debug\net8.0\PrintInConsoleApp.AssemblyInfo.cs
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\obj\Debug\net8.0\PrintInConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\bin\Debug\net8.0\PrintInConsoleApp.exe
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\bin\Debug\net8.0\PrintInConsoleApp.deps.json
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\bin\Debug\net8.0\PrintInConsoleApp.runtimeconfig.json
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\bin\Debug\net8.0\PrintInConsoleApp.dll
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\bin\Debug\net8.0\PrintInConsoleApp.pdb
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\obj\Debug\net8.0\PrintInConsoleApp.dll
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\obj\Debug\net8.0\refint\PrintInConsoleApp.dll
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\obj\Debug\net8.0\PrintInConsoleApp.pdb
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\obj\Debug\net8.0\PrintInConsoleApp.genruntimeconfig.cache
+C:\Users\trajk\OneDrive\Документи\SeeSharp.Homeworks\SeeSharp.Advanced.Class03.Homework\GenericsAndExtension\PrintInConsoleApp\obj\Debug\net8.0\ref\PrintInConsoleApp.dll
