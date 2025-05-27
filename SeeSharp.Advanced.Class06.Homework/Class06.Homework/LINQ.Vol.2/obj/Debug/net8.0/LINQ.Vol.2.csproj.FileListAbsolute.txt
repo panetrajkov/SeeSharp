@@ -1,0 +1,14 @@
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\bin\Debug\net8.0\LINQ.Vol.2.exe
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\bin\Debug\net8.0\LINQ.Vol.2.deps.json
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\bin\Debug\net8.0\LINQ.Vol.2.runtimeconfig.json
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\bin\Debug\net8.0\LINQ.Vol.2.dll
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\bin\Debug\net8.0\LINQ.Vol.2.pdb
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\obj\Debug\net8.0\LINQ.Vol.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\obj\Debug\net8.0\LINQ.Vol.2.AssemblyInfoInputs.cache
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\obj\Debug\net8.0\LINQ.Vol.2.AssemblyInfo.cs
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\obj\Debug\net8.0\LINQ.Vol.2.csproj.CoreCompileInputs.cache
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\obj\Debug\net8.0\LINQ.Vol.2.dll
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\obj\Debug\net8.0\refint\LINQ.Vol.2.dll
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\obj\Debug\net8.0\LINQ.Vol.2.pdb
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\obj\Debug\net8.0\LINQ.Vol.2.genruntimeconfig.cache
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class06.Homework\Class06.Homework\LINQ.Vol.2\obj\Debug\net8.0\ref\LINQ.Vol.2.dll
