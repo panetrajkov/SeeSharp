@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trajk\\Documents\\SeeSharp\\SeeSharp\\SeeSharp.Advanced.Class08.Homework\\Class08.Homework\\LINQ.Vol.3\\LINQ.Vol.3.csproj": {}
+    "C:\\Users\\trajk\\Documents\\DevAcademy\\SeeSharp.Homeworks\\SeeSharp\\SeeSharp.Advanced.Class08.Homework\\Class08.Homework\\LINQ.Vol.3\\LINQ.Vol.3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trajk\\Documents\\SeeSharp\\SeeSharp\\SeeSharp.Advanced.Class08.Homework\\Class08.Homework\\LINQ.Vol.3\\LINQ.Vol.3.csproj": {
+    "C:\\Users\\trajk\\Documents\\DevAcademy\\SeeSharp.Homeworks\\SeeSharp\\SeeSharp.Advanced.Class08.Homework\\Class08.Homework\\LINQ.Vol.3\\LINQ.Vol.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trajk\\Documents\\SeeSharp\\SeeSharp\\SeeSharp.Advanced.Class08.Homework\\Class08.Homework\\LINQ.Vol.3\\LINQ.Vol.3.csproj",
+        "projectUniqueName": "C:\\Users\\trajk\\Documents\\DevAcademy\\SeeSharp.Homeworks\\SeeSharp\\SeeSharp.Advanced.Class08.Homework\\Class08.Homework\\LINQ.Vol.3\\LINQ.Vol.3.csproj",
         "projectName": "LINQ.Vol.3",
-        "projectPath": "C:\\Users\\trajk\\Documents\\SeeSharp\\SeeSharp\\SeeSharp.Advanced.Class08.Homework\\Class08.Homework\\LINQ.Vol.3\\LINQ.Vol.3.csproj",
+        "projectPath": "C:\\Users\\trajk\\Documents\\DevAcademy\\SeeSharp.Homeworks\\SeeSharp\\SeeSharp.Advanced.Class08.Homework\\Class08.Homework\\LINQ.Vol.3\\LINQ.Vol.3.csproj",
         "packagesPath": "C:\\Users\\trajk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trajk\\Documents\\SeeSharp\\SeeSharp\\SeeSharp.Advanced.Class08.Homework\\Class08.Homework\\LINQ.Vol.3\\obj\\",
+        "outputPath": "C:\\Users\\trajk\\Documents\\DevAcademy\\SeeSharp.Homeworks\\SeeSharp\\SeeSharp.Advanced.Class08.Homework\\Class08.Homework\\LINQ.Vol.3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
