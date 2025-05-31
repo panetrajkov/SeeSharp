@@ -1,0 +1,14 @@
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\bin\Debug\net8.0\Working.With.File.System.exe
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\bin\Debug\net8.0\Working.With.File.System.deps.json
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\bin\Debug\net8.0\Working.With.File.System.runtimeconfig.json
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\bin\Debug\net8.0\Working.With.File.System.dll
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\bin\Debug\net8.0\Working.With.File.System.pdb
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\obj\Debug\net8.0\Working.With.File.System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\obj\Debug\net8.0\Working.With.File.System.AssemblyInfoInputs.cache
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\obj\Debug\net8.0\Working.With.File.System.AssemblyInfo.cs
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\obj\Debug\net8.0\Working.With.File.System.csproj.CoreCompileInputs.cache
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\obj\Debug\net8.0\Working.With.File.System.dll
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\obj\Debug\net8.0\refint\Working.With.File.System.dll
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\obj\Debug\net8.0\Working.With.File.System.pdb
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\obj\Debug\net8.0\Working.With.File.System.genruntimeconfig.cache
+C:\Users\trajk\Documents\DevAcademy\SeeSharp.Homeworks\SeeSharp\SeeSharp.Advanced.Class09.Homework\Class09.Homework\Working.With.File.System\obj\Debug\net8.0\ref\Working.With.File.System.dll
